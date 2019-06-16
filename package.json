@@ -1,13 +1,5 @@
 {
   "name": "nomster",
   "private": true,
-  "dependencies": {},
-    "scripts": {
-    "start": "node server.js" },
-  "engines": {
-    "node": "7.10.0"
-  }
-
-
-
+  "dependencies": {}
 }
