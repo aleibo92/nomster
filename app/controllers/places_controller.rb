@@ -16,6 +16,8 @@ class PlacesController < ApplicationController
 
 
 
+
+
 private
 
   def place_params
